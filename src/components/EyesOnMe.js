@@ -8,4 +8,4 @@ function EyesOnMe (){
     )
 }
 
-export default EyesOnMe;
+export default EyesOnMe; 
